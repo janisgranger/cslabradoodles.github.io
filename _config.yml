@@ -26,6 +26,7 @@ github_username:  bcall
 
 # Build settings
 markdown: kramdown
+  input: GFM
 gems:
   - jekyll-feed
 exclude:
