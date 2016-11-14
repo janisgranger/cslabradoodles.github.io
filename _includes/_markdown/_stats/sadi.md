@@ -1,3 +1,4 @@
+<br>
 **Color:** Red Carrying Chocolate  
 **Coat:** Fleece  
 **Size:** Medium - 17" and 22 lbs  
