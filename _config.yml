@@ -25,6 +25,8 @@ twitter_username: bcall
 github_username:  bcall 
 
 # Build settings
+markdown:
+  kramdown
 gems:
   - jekyll-feed
 exclude:
