@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: janis_and_co 
 ---
 
 ### This is my first post. Does it work?
