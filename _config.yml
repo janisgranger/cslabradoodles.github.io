@@ -26,7 +26,7 @@ github_username:  bcall
 
 # Build settings
 markdown: kramdown
-theme: minima
+  input: GFM
 gems:
   - jekyll-feed
 exclude:
