@@ -13,16 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Brian's Jekyll Ste 
-email: callbrian@gmail.com
+title: Columbia Springs Labradoodles 
+email: webmaster@cslabradoodles.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Columbia Springs Labradoodles - Australian Labradoodle Puppies in Brush Prairie,
+  Washington. Our specialty is breeding sturdy, medium sized Australian Labradoodles
+  with wavy fleece coats that are non-shedding, hypoallergenic and asthma friendly.
+  Our dogs are friendly and playful yet highly intelligent and easy to train. 
+  They love their people and become devoted companions as pets, therapy or service
+  animals. Our dogs have proven especially patient and loving with children and live
+  in harmony with other pets. Our doodles are definitely family friendly dogs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.spec.ml" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: bcall 
-github_username:  bcall 
+twitter_username: cslabradoodles 
+github_username:  cslabradoodles
 
 # Build settings
 markdown:

@@ -51,7 +51,6 @@ h1, h2, h3, h4, h5 {
 
 .profile_stats p {
 	font-size: 9pt;
-	font-style: oblique;
 }
 
 .icon img {
@@ -94,7 +93,7 @@ h1, h2, h3, h4, h5 {
   z-index: 20;
   padding-bottom: 3px;
   font-family: cookies_milk-regular, Arial, Helvetica, sans-serif;
-  font-size: 18pt; 
+  font-size: 22pt; 
 }
 
 .navbar {
@@ -120,7 +119,7 @@ h1, h2, h3, h4, h5 {
 }
 
 .dropdown-menu {
-  font-size: 16pt;
+  font-size: 20pt;
 }
 
 .dropdown-toggle {
@@ -173,9 +172,9 @@ h1, h2, h3, h4, h5 {
   }
   
   .navbar-brand {
-	font-size: 16pt;
-	font-weight: 800;
-	line-height: 35px;
+	  font-size: 16pt;
+	  font-weight: 800;
+	  line-height: 35px;
   }	
 }
 
@@ -196,9 +195,9 @@ h1, h2, h3, h4, h5 {
   }
 
   .navbar-brand {
-	font-size: 25pt;
-	font-weight: 800;
-	line-height: 35px;
+	  font-size: 25pt;
+	  font-weight: 800;
+	  line-height: 35px;
   }
 
   /* Increase size of carousel content */
@@ -209,8 +208,12 @@ h1, h2, h3, h4, h5 {
   }
   
   .navbar-nav>li>a {
-	padding-top: 20px;
+	  padding-top: 20px;
     padding-bottom: 20px;
+  }
+
+  .navbar-header {
+    padding-left: 20px;
   }
 }
 
