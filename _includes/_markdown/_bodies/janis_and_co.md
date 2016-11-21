@@ -6,6 +6,7 @@ We got our first Australian Labradoodle while serving as a guardian family for a
 
 Our specialty is breeding sturdy, medium sized Australian Labradoodles with wavy fleece coats that are non-shedding, hypoallergenic and asthma friendly. Our dogs are friendly and playful yet highly intelligent and easy to train. They love their people and become devoted companions as pets, therapy or service animals. Our dogs have proven especially patient and loving with children and live in harmony with other pets. They are definitely family friendly dogs.
 
+<img class="img-rounded img-responsive" align="right" style="padding-right:20px;" src="images/filler/beach_deck_puppy.png" alt="IMG_2787" width="350" height="315" />
 
 The raising of our puppies is truly a family affair. Everyone is involved in their care and all that it takes to raise these precious little ones. Our puppies are born and raised in our home surrounded by all of the sights, smells and sounds of family life. As a newly retired elementary school teacher, I am able give each puppy an abundance of love and attention every day.
 
