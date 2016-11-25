@@ -5,11 +5,13 @@
 We got our first Australian Labradoodle while serving as a guardian family for a local breeder. Sophie is now a treasured addition to our family and we couldn’t have asked for a more loving, loyal and fun companion. She visits students and hospital patients weekly as a therapy dog volunteer. In fact, Sophie has brought so much to our lives that we want to bring that same joy to other families. That's why we do what we do!
 
 <img class="img-rounded img-responsive" align="right" style="margin:10px;" src="/images/filler/beach_deck_puppy.png" alt="Puppy on the Beach Deck" width="350" height="315" />
+
 ### What Can You Expect
 Our specialty is breeding sturdy, medium sized Australian Labradoodles with wavy fleece coats that are non-shedding, hypoallergenic and asthma friendly. Our dogs are friendly and playful yet highly intelligent and easy to train. They love their people and become devoted companions as pets, therapy or service animals. Our dogs have proven especially patient and loving with children and live in harmony with other pets. They are definitely family friendly dogs.
 
 
 The raising of our puppies is truly a family affair. Everyone is involved in their care and all that it takes to raise these precious little ones. Our puppies are born and raised in our home surrounded by all of the sights, smells and sounds of family life. As a newly retired elementary school teacher, I am able give each puppy an abundance of love and attention every day.
+
 
 ### Our Philiosophy
 **We are not a kennel facility. Our breeding dogs live in guardian homes as cherished members of loving families and come to us when they are ready to whelp their puppies. While others have chosen to have a legion of dogs, multiple staff and even separate facilities, we have decided to remain small and home based. What else makes us different from the others?? We have only a few litters a year enabling us to give each puppy the individual attention that makes for a socially healthy and confident puppy.**
@@ -17,6 +19,7 @@ The raising of our puppies is truly a family affair. Everyone is involved in the
 With only one litter in our home at a time, we are able to spend quality moments with each puppy every day. Raising Australian Labradoodle puppies and preparing them for your family is a huge responsibility that we take very seriously. Because our numbers are small, we have the time to shower every puppy with the love and attention that it deserves.
 
 <br><br><br>
+
 ### Our Customers
 We also make time to work with you as you ponder
 the decision to add a puppy to your home. Our schedule allows us to communicate in a timely manner by email or phone if you have any questions about our labradoodles or how we operate here at Columbia Springs. We enjoy building relationships with our customers and want to support you even if you are in the "just thinking about it" stage of acquiring a new puppy.
