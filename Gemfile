@@ -25,4 +25,3 @@ end
 
 # For GitHub Pages
 gem 'jekyll-sass-converter'
-gem 'github-pages', '104', group: :jekyll_plugins
