@@ -29,13 +29,17 @@
 
       /* This is for the CSS animation fade in */
       html {
-        background: #404040;
+        -webkit-background-size: cover;
+           -moz-background-size: cover;
+             -o-background-size: cover;
+                background-size: cover;
         height: 100%;
-        -webkit-animation: fadein .25s; /* Safari, Chrome and Opera > 12.1 */
-           -moz-animation: fadein .25s; /* Firefox < 16 */
-            -ms-animation: fadein .25s; /* Internet Explorer */
-             -o-animation: fadein .25s; /* Opera < 12.1 */
-                animation: fadein .25s;
+        background: url(/images/green_grass.jpg) no-repeat center center fixed;
+          -webkit-animation: fadein .25s; /* Safari, Chrome and Opera > 12.1 */
+             -moz-animation: fadein .25s; /* Firefox < 16 */
+              -ms-animation: fadein .25s; /* Internet Explorer */
+               -o-animation: fadein .25s; /* Opera < 12.1 */
+                  animation: fadein .25s;
       }
 
       @keyframes fadein {
@@ -68,20 +72,16 @@
 
       }
 
+      #home {
+        background: #bfbfbf;
+      }
+
       body {
         height: 100%;
         font-family: Verdana, Geneva, sans-serif;
         padding-bottom: 10px;
         font-size: 16pt;
-        background: url(/images/green_grass.jpg) no-repeat center center fixed;
-        -webkit-background-size: cover;
-           -moz-background-size: cover;
-             -o-background-size: cover;
-                background-size: cover;
-      }
-
-      #home {
-        background: #bfbfbf;
+        background: transparent;
       }
 
       /* styling for markdown/kramdown */
